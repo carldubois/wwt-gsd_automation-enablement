@@ -4,61 +4,63 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <title>WWT GSD Automation Enablement</title>
+    <title>reveal-md</title>
     <link rel="shortcut icon" href="./favicon.ico"/>
     <link rel="stylesheet" href="./dist/reveal.css" />
-    <link rel="stylesheet" href="./dist/theme/solarized.css" id="theme" />
+    <link rel="stylesheet" href="./dist/theme/black.css" id="theme" />
     <link rel="stylesheet" href="./css/highlight/zenburn.css" />
     <link rel="stylesheet" href="./_assets/custom.css" />
 
   </head>
   <body>
     <div class="reveal">
-      <div class="slides"><section  data-markdown><script type="text/template">
+      <div class="slides"><section  data-markdown><script type="text/template">#---
+#title: WWT GSD Automation Enablement
+#separator: <!--s-->
+#verticalSeparator: <!--v-->
+#theme: solarized
+#highlight-theme: monokai
+#css: custom.css
+#revealOptions:
+#  controls: true
+#  slideNumber: true
+#  transition: 'slide'
+#  backgroundTransition: 'fade'
+#---
 
 # WWT GSD Automation Enablement
 
-# Contents
+# Deep
 
-* [Session 1](#/1)
-* [Session 2](#/2)
-* [Session 3](#/3)
-* [Session 4](#/4)
-
----
-
-## Session 1
+* [Chapter 1](#/1)
+* [Chapter 2a](#/2)
+* [Chapter 2b](#/2/1)
+* [Chapter 3](#/3)
+* [Entirely different deck](../../a.md)
+</script></section><section  data-markdown><script type="text/template">
+## Chapter 1
 
 Once upon a time.
 
 [<](#/)
-
----
-
-## Session 2
+</script></section><section ><section data-markdown><script type="text/template">
+## Chapter 2a
 
 Fairy.
 
 [<](#/)
-
-----
-
-## Session 3
+</script></section><section data-markdown><script type="text/template">
+## Chapter 2b
 
 Tale.
 
 [<](#/)
-
----
-
-## Session 4
+</script></section></section><section  data-markdown><script type="text/template">
+## Chapter 3
 
 Live happily ever after.
 
-[<](#/)
-* 
-![Platform Pete](img/8ce2473ed6df904159561876125fd6ef.png)
-</script></section></div>
+[<](#/)</script></section></div>
     </div>
 
     <script src="./dist/reveal.js"></script>
@@ -101,7 +103,7 @@ Live happily ever after.
       // options from URL query string
       var queryOptions = Reveal().getQueryHash() || {};
 
-      var options = extend(defaultOptions, {"controls":true,"slideNumber":true,"transition":"slide","backgroundTransition":"fade"}, queryOptions);
+      var options = extend(defaultOptions, {}, queryOptions);
     </script>
 
 
