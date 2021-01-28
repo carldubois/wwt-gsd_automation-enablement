@@ -1,4 +1,3 @@
-
-# WWT GSD Automation Enablement
+# Automation Enablement
 
 {{contents.md}}

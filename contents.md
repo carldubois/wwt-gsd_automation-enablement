@@ -1,4 +1,4 @@
-# Automation Enablement
+# Contents
 
 * [Session 1](#/1)
 * [Session 2](#/2)
