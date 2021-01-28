@@ -1,17 +1,18 @@
 ---
-title: reveal-md deployed to gh-pages
+title: WWT GSD Automation Enablement
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: solarized
 highlight-theme: monokai
 css: custom.css
 revealOptions:
-  controls: false
-  slideNumber: false
+  controls: true
+  slideNumber: true
   transition: 'slide'
   backgroundTransition: 'fade'
 ---
 
 # WWT GSD Automation Enablement
 
+{{d.md}}
 {{1.md}}
