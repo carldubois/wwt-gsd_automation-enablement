@@ -12,6 +12,6 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-# reveal-md & github-pages
+# WWT GSD Automation Enablement
 
 {{1.md}}
