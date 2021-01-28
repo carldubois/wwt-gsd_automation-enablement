@@ -1,13 +1,13 @@
-# Contents
+# Deep
 
 * [Session 1](#/1)
 * [Session 2](#/2)
-* [Session 3](#/3)
-* [Session 4](#/4)
+* [Session 2.1](#/2/1)
+* [Session 4](#/1.md)
 
 ---
 
-## Session 1
+## Chapter 1
 
 Once upon a time.
 
@@ -15,7 +15,7 @@ Once upon a time.
 
 ---
 
-## Session 2
+## Chapter 2a
 
 Fairy.
 
@@ -23,7 +23,7 @@ Fairy.
 
 ----
 
-## Session 3
+## Chapter 2b
 
 Tale.
 
@@ -31,7 +31,7 @@ Tale.
 
 ---
 
-## Session 4
+## Chapter 3
 
 Live happily ever after.
 
