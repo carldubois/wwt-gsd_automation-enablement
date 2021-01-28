@@ -14,5 +14,5 @@ revealOptions:
 
 # WWT GSD Automation Enablement
 
-{{d.md}}
+{{contents.md}}
 {{1.md}}
