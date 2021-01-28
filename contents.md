@@ -1,38 +1,30 @@
-# Deep
+# Contents
 
 * [Session 1](#/1)
 * [Session 2](#/2)
 * [Session 2.1](#/2/1)
-* [Session 4](#/1.md)
+* [Session 3](#/3)
 
 ---
 
-## Chapter 1
-
-Once upon a time.
+## Session 1
 
 [<](#/)
 
 ---
 
-## Chapter 2a
-
-Fairy.
+## Session 2a
 
 [<](#/)
 
 ----
 
-## Chapter 2b
-
-Tale.
+## Session 2b
 
 [<](#/)
 
 ---
 
-## Chapter 3
-
-Live happily ever after.
+## Session 3
 
 [<](#/)
