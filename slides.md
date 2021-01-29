@@ -10,19 +10,13 @@
 ---
 
 ## Session 1
-
+![Platform Pete](img/8ce2473ed6df904159561876125fd6ef.png)
 [<](#/)
 
 ---
 
-## Session 2a
-
-[<](#/)
-
-----
-
-## Session 2b
-
+## Session 2
+![Ansible](img/0a6206c3b26247c2a8928ed559c56a12.png)
 [<](#/)
 
 ---
@@ -48,5 +42,3 @@
 ## Session 6
 
 [<](#/)
-
----
