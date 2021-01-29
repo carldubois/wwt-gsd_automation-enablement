@@ -36,9 +36,9 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* [IDE - Visual Studio Code](/session1.md)
-* Python Virtual Environments 
-* Visual Studio integrations and plugins – market place 
+* [IDE - Visual Studio Code](wwt_automation-enablement/session1.md)
+* Python Virtual Environments
+* Visual Studio integrations and plugins – market place
 
 ---
 
