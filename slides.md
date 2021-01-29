@@ -24,11 +24,20 @@
 
 [<](#/)
 
+* (IDE) Visual studio code - https://code.visualstudio.com/
+* Python virtual environments 
+* Visual Studio integrations and plugins – market place 
+
 ---
 
 ## Source of Truth (GitHub / GitLab)
 
 [<](#/)
+
+* Source Control
+* Version Control
+* Branching
+* Intro to GitLab (why / why not)
 
 ---
 
@@ -36,11 +45,19 @@
 
 [<](#/)
 
+* Fundamentals
+* IDE (Visual Studio) Integration
+
 ---
 
 ## Python Basics
 
 [<](#/)
+
+*	Fundamentals 
+*	Network interaction (ssh, scp, etc) - ex. netmiko 
+*	Network automation - ex. napalm
+*	Automation framework - ex. nornir
 
 ---
 
@@ -48,8 +65,16 @@
 
 [<](#/)
 
+* Ansible (RedHat) - Tower 
+* Terraform (Hashi) - TFE
+
 ---
 
 ## Automating in the ATC
 
 [<](#/)
+
+* Admin platform
+* Webhooks (Tower or TFE API)
+* Git version control - WWT Platform Github Caching
+* Common areas to organize and collaborate automation and libraries - ex. Github Teams
