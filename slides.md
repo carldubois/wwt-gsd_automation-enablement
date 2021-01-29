@@ -66,8 +66,8 @@ IDE (Visual Studio) Integration
 
 [<](#/)
 
-Fundamentals\ 
-Network interaction (ssh, scp, etc) - ex. netmiko\ 
+Fundamentals\
+Network interaction (ssh, scp, etc) - ex. netmiko\
 Network automation - ex. napalm\
 Automation framework - ex. nornir
 
