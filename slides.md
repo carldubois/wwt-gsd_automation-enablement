@@ -14,6 +14,10 @@
 
 [<](#/)
 
+* Install Visual Studio Code
+* Install Docker Desktop 
+* Install Git
+
 ---
 
 ## Development Environments - (On Boarding)
@@ -22,7 +26,7 @@
 
 ---
 
-## Source of Truth (GitHub)
+## Source of Truth (GitHub / GitLab)
 
 [<](#/)
 
