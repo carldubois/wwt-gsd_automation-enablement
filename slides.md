@@ -2,14 +2,16 @@
 
 * [Session 1](#/1)
 * [Session 2](#/2)
-* [Session 2.1](#/2/1)
 * [Session 3](#/3)
+* [Session 4](#/4)
+* [Session 5](#/5)
+* [Session 6](#/6)
 
 ---
 
 ## Session 1
 
-[<](#/slide1.md)
+[<](#/)
 
 ---
 
@@ -27,4 +29,24 @@
 
 ## Session 3
 
-[<](#/slide1.md)
+[<](#/)
+
+---
+
+## Session 4
+
+[<](#/)
+
+---
+
+## Session 5
+
+[<](#/)
+
+---
+
+## Session 6
+
+[<](#/)
+
+---
