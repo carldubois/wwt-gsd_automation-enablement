@@ -21,13 +21,13 @@ output:
 
 [<](#/)
 
-* Install Visual Studio Code
+* Install Visual Studio Code \   
 https://code.visualstudio.com/
 
-* Install Docker Desktop
+* Install Docker Desktop \   
 https://docs.docker.com/desktop/
 
-* Install Git Client
+* Install Git Client \
 https://git-scm.com/downloads
 
 ---
