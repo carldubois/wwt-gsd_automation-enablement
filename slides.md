@@ -21,9 +21,9 @@ output:
 
 [<](#/)
 
-Visual Studio Code **[]Install](https://code.visualstudio.com/)**
-* Install Docker Desktop 
-* Install Git
+Install Visual Studio Code **https://code.visualstudio.com/**
+* Install Docker Desktop **https://docs.docker.com/desktop/**
+* Install Git **https://git-scm.com/downloads**
 
 ---
 
