@@ -17,7 +17,7 @@ output:
 
 ---
 
-## Prerequisties
+# Prerequisties
 
 [<](#/)
 
@@ -32,17 +32,17 @@ https://git-scm.com/downloads/
 
 ---
 
-## Development Environments - (On Boarding)
+# Development Environments - (On Boarding)
 
 [<](#/)
 
-* [IDE - Visual Studio Code](blob/master/session1.md)
+* [IDE - Visual Studio Code](session1.md)
 * Python Virtual Environments
 * Visual Studio integrations and plugins – market place
 
 ---
 
-## Source of Truth (GitHub / GitLab)
+# Source of Truth (GitHub / GitLab)
 
 [<](#/)
 
@@ -53,7 +53,7 @@ https://git-scm.com/downloads/
 
 ---
 
-## Introduction to Docker Containers
+# Introduction to Docker Containers
 
 [<](#/)
 
@@ -62,7 +62,7 @@ https://git-scm.com/downloads/
 
 ---
 
-## Python Basics
+# Python Basics
 
 [<](#/)
 
@@ -73,7 +73,7 @@ https://git-scm.com/downloads/
 
 ---
 
-## ATC Automation Platform
+# ATC Automation Platform
 
 [<](#/)
 
@@ -82,7 +82,7 @@ https://git-scm.com/downloads/
 
 ---
 
-## Automating in the ATC
+# Automating in the ATC
 
 [<](#/)
 
