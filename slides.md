@@ -1,3 +1,10 @@
+---
+output:
+  revealjs::revealjs_presentation:
+    css: custom.css
+    transition: slide
+---
+
 # Automation Enablement
 
 * [Prerequisties](#/1)
@@ -14,7 +21,7 @@
 
 [<](#/)
 
-* Install Visual Studio Code
+Visual Studio Code **[]Install](https://code.visualstudio.com/)**
 * Install Docker Desktop 
 * Install Git
 
@@ -24,7 +31,7 @@
 
 [<](#/)
 
-* (IDE) Visual Studio Code
+* (IDE) Visual Studio Code 
 * Python Virtual Environments 
 * Visual Studio integrations and plugins – market place 
 
