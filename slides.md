@@ -1,10 +1,3 @@
----
-output:
-  revealjs::revealjs_presentation:
-    css: custom.css
-    transition: slide
----
-
 ## Automation Enablement
 
 * [Prerequisties](#/1)
