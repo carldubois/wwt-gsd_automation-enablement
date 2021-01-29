@@ -29,9 +29,9 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-[IDE - Visual Studio Code](session1.md)\
-Python Virtual Environments\
-Visual Studio integrations and plugins – market place
+* [IDE - Visual Studio Code](session1.md)
+* Python Virtual Environments
+* Visual Studio integrations and plugins – market place
 
 ---
 
@@ -39,10 +39,10 @@ Visual Studio integrations and plugins – market place
 
 [<](#/)
 
-Source Control\
-Version Control\
-Branching\
-Intro to GitLab (why / why not)
+* Source Control
+* Version Control
+* Branching
+* Intro to GitLab (why / why not)
 
 ---
 
@@ -50,8 +50,8 @@ Intro to GitLab (why / why not)
 
 [<](#/)
 
-Fundamentals\
-IDE (Visual Studio) Integration
+* Fundamentals
+* IDE (Visual Studio) Integration
 
 ---
 
@@ -59,10 +59,10 @@ IDE (Visual Studio) Integration
 
 [<](#/)
 
-Fundamentals\
-Network interaction (ssh, scp, etc) - ex. netmiko\
-Network automation - ex. napalm\
-Automation framework - ex. nornir
+* Fundamentals
+* Network interaction (ssh, scp, etc) - ex. netmiko
+* Network automation - ex. napalm
+* Automation framework - ex. nornir
 
 ---
 
@@ -70,8 +70,8 @@ Automation framework - ex. nornir
 
 [<](#/)
 
-Ansible (RedHat) - Tower\
-Terraform (Hashi) - TFE
+* Ansible (RedHat) - Tower
+* Terraform (Hashi) - TFE
 
 ---
 
@@ -79,7 +79,7 @@ Terraform (Hashi) - TFE
 
 [<](#/)
 
-Admin platform\
-Webhooks (Tower or TFE API)\
-Git Version Control - WWT Platform Caching\
-Common areas to organize and collaborate automation and libraries - ex. Github Teams
+* Admin platform
+* Webhooks (Tower or TFE API)
+* Git Version Control - WWT Platform Caching
+* Common areas to organize and collaborate automation and libraries - ex. Github Teams
