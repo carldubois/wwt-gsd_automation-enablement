@@ -1,58 +1,29 @@
 # Automation Enablement
 
-* [Session 1](#/1)
-* [Session 2](#/2)
-* [Session 3](#/3)
-* [Session 4](#/4)
-* [Session 5](#/5)
-* [Session 6](#/6)
+- [Automation Enablement](#automation-enablement)
+  - [Prerequisties](#prerequisties)
+  - [## Development Environments - (On Boarding)](#-development-environments---on-boarding)
+  - [## Source of Truth (GitHub)](#-source-of-truth-github)
+  - [## Introduction to Docker Containers](#-introduction-to-docker-containers)
+  - [## Python Basics](#-python-basics)
+  - [## ATC Automation Platform](#-atc-automation-platform)
+  - [Automating in the ATC](#automating-in-the-atc)
 
+## Prerequisties
+
+## Development Environments - (On Boarding)
 ---
 
-## Session 1
-
-Development Environments - (On Boarding)
-
-![Platform Pete](img/8ce2473ed6df904159561876125fd6ef.png)
-[<](#/)
-
+## Source of Truth (GitHub)
 ---
 
-## Session 2
-
-Source of Truth (GitHub)
-
-![Ansible](img/0a6206c3b26247c2a8928ed559c56a12.png)
-[<](#/)
-
+## Introduction to Docker Containers
 ---
 
-## Session 3
-
-Introduction to Docker Containers
-
-[<](#/)
-
+## Python Basics
 ---
 
-## Session 4
-
-Python Basics
-
-[<](#/)
-
+## ATC Automation Platform
 ---
 
-## Session 5
-
-ATC Automation Platform
-
-[<](#/)
-
----
-
-## Session 6
-
-Automating in the ATC
-
-[<](#/)
+## Automating in the ATC
