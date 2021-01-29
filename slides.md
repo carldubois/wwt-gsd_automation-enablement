@@ -33,7 +33,7 @@ output:
 
 [<](#/)
 
-* (IDE) Visual Studio Code 
+* [IDE - Visual Studio Code](session1.md) 
 * Python Virtual Environments 
 * Visual Studio integrations and plugins – market place 
 
