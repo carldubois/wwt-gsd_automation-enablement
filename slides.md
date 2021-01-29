@@ -24,8 +24,8 @@
 
 [<](#/)
 
-* (IDE) Visual studio code - https://code.visualstudio.com/
-* Python virtual environments 
+* (IDE) Visual Studio Code
+* Python Virtual Environments 
 * Visual Studio integrations and plugins – market place 
 
 ---
@@ -76,5 +76,5 @@
 
 * Admin platform
 * Webhooks (Tower or TFE API)
-* Git version control - WWT Platform Github Caching
+* Git Version Control - WWT Platform Caching
 * Common areas to organize and collaborate automation and libraries - ex. Github Teams
