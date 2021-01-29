@@ -14,7 +14,6 @@ output:
 * [Python Basics](#/5)
 * [ATC Automation Platform](#/6)
 * [Automating in the ATC](#/7)
-![Entirely different deck](../session1.md)
 
 ---
 
@@ -38,8 +37,8 @@ https://git-scm.com/downloads/
 [<](#/)
 
 [IDE - Visual Studio Code](session1.md)
-* Python Virtual Environments
-* Visual Studio integrations and plugins – market place
+Python Virtual Environments\
+Visual Studio integrations and plugins – market place
 
 ---
 
@@ -47,10 +46,10 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Source Control
-* Version Control
-* Branching
-* Intro to GitLab (why / why not)
+Source Control\
+Version Control\
+Branching\
+Intro to GitLab (why / why not)
 
 ---
 
@@ -58,8 +57,8 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Fundamentals
-* IDE (Visual Studio) Integration
+Fundamentals\
+IDE (Visual Studio) Integration
 
 ---
 
@@ -67,10 +66,10 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-*	Fundamentals 
-*	Network interaction (ssh, scp, etc) - ex. netmiko 
-*	Network automation - ex. napalm
-*	Automation framework - ex. nornir
+Fundamentals\ 
+Network interaction (ssh, scp, etc) - ex. netmiko\ 
+Network automation - ex. napalm\
+Automation framework - ex. nornir
 
 ---
 
@@ -78,8 +77,8 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Ansible (RedHat) - Tower 
-* Terraform (Hashi) - TFE
+Ansible (RedHat) - Tower\
+Terraform (Hashi) - TFE
 
 ---
 
@@ -87,7 +86,7 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Admin platform
-* Webhooks (Tower or TFE API)
-* Git Version Control - WWT Platform Caching
-* Common areas to organize and collaborate automation and libraries - ex. Github Teams
+Admin platform\
+Webhooks (Tower or TFE API)\
+Git Version Control - WWT Platform Caching\
+Common areas to organize and collaborate automation and libraries - ex. Github Teams
