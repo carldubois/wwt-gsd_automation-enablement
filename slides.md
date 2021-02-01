@@ -10,7 +10,7 @@
 
 ---
 
-## Prerequisties1
+## Prerequisties
 
 [<](#/)
 
