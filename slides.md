@@ -95,7 +95,7 @@ https://git-scm.com/downloads/
 
 ## Python Virtual Environments
 
-![session1](sessions/session1.md)
+[session1](sessions/session1.md)
 
 ---
 
