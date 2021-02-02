@@ -7,7 +7,6 @@
 * [Python Basics](#/5)
 * [ATC Automation Platform](#/6)
 * [Automating in the ATC](#/7)
-* [IDE - Visual Studio Code](#2/1)
 
 ---
 
@@ -30,7 +29,7 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* [IDE - Visual Studio Code](#2/1)
+* [IDE - Visual Studio Code](#2/7)
 * Python Virtual Environments
 * Visual Studio integrations and plugins – market place
 
