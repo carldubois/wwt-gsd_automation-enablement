@@ -1,4 +1,4 @@
-## Automation Enablement
+# Automation Enablement
 
 * [Prerequisties](#/1)
 * [Development Environments - (On Boarding)](#/2)
@@ -7,6 +7,7 @@
 * [Python Basics](#/5)
 * [ATC Automation Platform](#/6)
 * [Automating in the ATC](#/7)
+* [IDE - Visual Studio Code](#/session1.md)
 
 ---
 
