@@ -96,3 +96,17 @@ https://git-scm.com/downloads/
 ## Python Virtual Environments
 
 ![session1](sessions/session1.md)
+
+---
+
+## Visual Studio integrations and plugins – market place
+
+<section>
+  <pre><code data-trim data-noescape>
+(def lazy-fib
+  (concat
+   [0 1]
+   ((fn rfib [a b]
+        (lazy-cons (+ a b) (rfib b (+ a b)))) 0 1)))
+  </code></pre>
+</section>
