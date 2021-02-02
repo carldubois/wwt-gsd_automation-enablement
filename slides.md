@@ -30,7 +30,7 @@ https://git-scm.com/downloads/
 [<](#/)
 
 * [IDE - Visual Studio Code](#/8)
-* Python Virtual Environments
+* [Python Virtual Environments](#/9)
 * Visual Studio integrations and plugins – market place
 
 ---
@@ -86,8 +86,13 @@ https://git-scm.com/downloads/
 
 ---
 
-## IDE - Visual Studio Code]
+## IDE - Visual Studio Code
 
 ![pete](img/8ce2473ed6df904159561876125fd6ef.png)
 
 
+---
+
+## Python Virtual Environments
+
+![session1](sessions/session1.md)
