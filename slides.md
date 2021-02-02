@@ -29,9 +29,9 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* [IDE - Visual Studio Code](#/8)
-* [Python Virtual Environments](#/9)
-* Visual Studio integrations and plugins – market place
+[IDE - Visual Studio Code](sessions/session1a.md)\
+[Python Virtual Environments](sessions/session1b.md)\
+[Visual Studio integrations and plugins](sessions/session1c.md)
 
 ---
 
@@ -83,30 +83,3 @@ https://git-scm.com/downloads/
 * Webhooks (Tower or TFE API)
 * Git Version Control - WWT Platform Caching
 * Common areas to organize and collaborate automation and libraries - ex. Github Teams
-
----
-
-## IDE - Visual Studio Code
-
-![pete](img/8ce2473ed6df904159561876125fd6ef.png)
-
-
----
-
-## Python Virtual Environments
-
-[session1](sessions/session1.md)
-
----
-
-## Visual Studio integrations and plugins – market place
-
-<section>
-  <pre><code data-trim data-noescape>
-(def lazy-fib
-  (concat
-   [0 1]
-   ((fn rfib [a b]
-        (lazy-cons (+ a b) (rfib b (+ a b)))) 0 1)))
-  </code></pre>
-</section>
