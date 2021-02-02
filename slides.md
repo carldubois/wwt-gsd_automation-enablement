@@ -29,15 +29,9 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* [IDE - Visual Studio Code](#2/7)
+* [IDE - Visual Studio Code](#/8)
 * Python Virtual Environments
 * Visual Studio integrations and plugins – market place
-
----
-
-## IDE - Visual Studio Code]
-
-![pete](img/8ce2473ed6df904159561876125fd6ef.png)
 
 ---
 
@@ -89,3 +83,11 @@ https://git-scm.com/downloads/
 * Webhooks (Tower or TFE API)
 * Git Version Control - WWT Platform Caching
 * Common areas to organize and collaborate automation and libraries - ex. Github Teams
+
+---
+
+## IDE - Visual Studio Code]
+
+![pete](img/8ce2473ed6df904159561876125fd6ef.png)
+
+
