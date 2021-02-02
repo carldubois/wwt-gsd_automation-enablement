@@ -1,4 +1,6 @@
 
+# FOO
+
 <section>
   <pre><code data-trim data-noescape>
 ADD CONTENT HERE 1
