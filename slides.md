@@ -29,9 +29,9 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-[IDE - Visual Studio Code](session1a.md)\
-[Python Virtual Environments](session1b.md)\
-[Visual Studio integrations and plugins](session1c.md)
+[IDE - Visual Studio Code](docs/session1a.md)\
+[Python Virtual Environments](docs/session1b.md)\
+[Visual Studio integrations and plugins](docs/session1c.md)
 
 ---
 
