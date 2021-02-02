@@ -39,10 +39,10 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Source Control
-* Version Control
-* Branching
-* Intro to GitLab (why / why not)
+[Source Control](sessions/session2a.md)\
+[Version Control](sessions/session2b.md)\
+[Branching](sessions/session2c.md)\
+[Intro to GitLab (why / why not)](sessions/session2d.md)
 
 ---
 
@@ -50,8 +50,8 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Fundamentals
-* IDE (Visual Studio) Integration
+[Fundamentals](sessions/session3a.md)\
+[IDE (Visual Studio) Integration](sessions/session3b.md)
 
 ---
 
@@ -59,10 +59,10 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Fundamentals
-* Network interaction (ssh, scp, etc) - ex. netmiko
-* Network automation - ex. napalm
-* Automation framework - ex. nornir
+[Fundamentals](sessions/session4a.md)
+[Network interaction (ssh, scp, etc) - ex. netmiko](sessions/session4b.md)
+[Network automation - ex. napalm](sessions/session4c.md)
+[Automation framework - ex. nornir](sessions/session4d.md)
 
 ---
 
@@ -70,8 +70,8 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Ansible (RedHat) - Tower
-* Terraform (Hashi) - TFE
+* [Ansible (RedHat) - Tower](sessions/session5a.md)
+* [Terraform (Hashi) - TFE](sessions/session5b.md)
 
 ---
 
@@ -79,7 +79,7 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-* Admin platform
-* Webhooks (Tower or TFE API)
-* Git Version Control - WWT Platform Caching
-* Common areas to organize and collaborate automation and libraries - ex. Github Teams
+[Admin platform](sessions/session6a.md)
+[Webhooks (Tower or TFE API)](sessions/session6b.md)
+[Git Version Control - WWT Platform Caching](sessions/session6c.md)
+[Common areas to organize and collaborate automation and libraries - ex. Github Teams](sessions/session6d.md)
