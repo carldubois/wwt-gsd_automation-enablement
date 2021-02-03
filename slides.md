@@ -12,7 +12,7 @@
 
 ## Prerequisties
 
-[<](#/)
+[<](slides.html)
 
 * Install Visual Studio Code\
 https://code.visualstudio.com/
