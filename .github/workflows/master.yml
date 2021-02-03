@@ -24,7 +24,9 @@ jobs:
           mkdir build
           cp -r docs build/
           cp -r img build/
-          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build slides.md --static build docs/session1a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build slides.md
+        run: |
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session1a.md
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
