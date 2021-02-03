@@ -14,14 +14,9 @@
 
 [<](slides.html)
 
-* Install Visual Studio Code\
-https://code.visualstudio.com/
-
-* Install Docker Desktop\
-https://docs.docker.com/desktop/
-
-* Install Git Client\
-https://git-scm.com/downloads/
+[Install Visual Studio Code](https://code.visualstudio.com/)\
+[Install Docker Desktop](https://docs.docker.com/desktop/)\
+[Install Git Client](https://git-scm.com/downloads/)
 
 ---
 
