@@ -70,8 +70,8 @@ https://git-scm.com/downloads/
 
 [<](slides.html)
 
-* [Ansible (RedHat) - Tower](session5a.html)\
-* [Terraform (Hashi) - TFE](session5b.html)
+[Ansible (RedHat) Tower](session5a.html)\
+[Terraform (Hashi) Enterprise](session5b.html)
 
 ---
 
