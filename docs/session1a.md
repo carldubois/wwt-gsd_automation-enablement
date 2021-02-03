@@ -25,6 +25,5 @@ Wouldn't it be cool to have all of this in one package?
   <pre><code data-trim data-noescape>
 Why do we care?
   </code></pre>
-![ide](../img/08dd1705e70f1a1d4f55b499f49d278c.png)
   <a href="slides.html"><</a> 
 </section>
