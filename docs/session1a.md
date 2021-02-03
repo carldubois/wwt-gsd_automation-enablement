@@ -24,7 +24,7 @@ Wouldn't it be cool to have all of this in one package?
 <section>
   <pre><code data-trim data-noescape>
 Why do we care?
-![ide](08dd1705e70f1a1d4f55b499f49d278c.png)
+![ide](img/08dd1705e70f1a1d4f55b499f49d278c.png)
   </code></pre>
-  <a href="slides.html"><</a>
+  <a href="slides.html"><</a> 
 </section>
