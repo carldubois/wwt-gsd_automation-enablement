@@ -27,7 +27,7 @@ https://git-scm.com/downloads/
 
 ## Development Environments - (On Boarding)
 
-[<](#/)
+[<](slides.html)
 
 [IDE - Visual Studio Code](session1a.html)\
 [Python Virtual Environments](session1b.html)\
@@ -37,18 +37,18 @@ https://git-scm.com/downloads/
 
 ## Source of Truth (GitHub / GitLab)
 
-[<](#/)
+[<](slides.html)
 
 [Source Control](session2a.html)\
 [Version Control](session2b.html)\
-[Branching](sessions/session2c.html)\
+[Branching](session2c.html)\
 [Intro to GitLab (why / why not)](session2d.html)
 
 ---
 
 ## Introduction to Docker Containers
 
-[<](#/)
+[<](slides.html)
 
 [Fundamentals](session3a.html)\
 [IDE (Visual Studio) Integration](session3b.html)
@@ -57,29 +57,29 @@ https://git-scm.com/downloads/
 
 ## Python Basics
 
-[<](#/)
+[<](slides.html)
 
-[Fundamentals](sessions/session4a.md)
-[Network interaction (ssh, scp, etc) - ex. netmiko](sessions/session4b.md)
-[Network automation - ex. napalm](sessions/session4c.md)
-[Automation framework - ex. nornir](sessions/session4d.md)
+[Fundamentals](session4a.html)\
+[Network interaction (ssh, scp, etc) - ex. netmiko](session4b.html)\
+[Network automation - ex. napalm](session4c.html)\
+[Automation framework - ex. nornir](session4d.html)
 
 ---
 
 ## ATC Automation Platform
 
-[<](#/)
+[<](slides.html)
 
-* [Ansible (RedHat) - Tower](sessions/session5a.md)
-* [Terraform (Hashi) - TFE](sessions/session5b.md)
+* [Ansible (RedHat) - Tower](session5a.html)\
+* [Terraform (Hashi) - TFE](session5b.html)
 
 ---
 
 ## Automating in the ATC
 
-[<](#/)
+[<](slides.html)
 
-[Admin platform](sessions/session6a.md)
-[Webhooks (Tower or TFE API)](sessions/session6b.md)
-[Git Version Control - WWT Platform Caching](sessions/session6c.md)
-[Common areas to organize and collaborate automation and libraries - ex. Github Teams](sessions/session6d.md)
+[Admin platform](session6a.html)\
+[Webhooks (Tower or TFE API)](session6b.html)\
+[Git Version Control - WWT Platform Caching](session6c.html)\
+[Common areas to organize and collaborate automation and libraries - ex. Github Teams](session6d.html)
