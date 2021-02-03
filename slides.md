@@ -29,7 +29,7 @@ https://git-scm.com/downloads/
 
 [<](#/)
 
-[IDE - Visual Studio Code](docs/session1a.md)\
+[IDE - Visual Studio Code](session1a.html)\
 [Python Virtual Environments](docs/session1b.md)\
 [Visual Studio integrations and plugins](docs/session1c.md)
 
