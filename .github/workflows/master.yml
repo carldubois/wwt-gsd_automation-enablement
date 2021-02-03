@@ -24,7 +24,25 @@ jobs:
           mkdir build
           cp -r docs build/
           cp -r img build/
-          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session*
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session1a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session1b.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session1c.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session2a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session2b.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session2c.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session2d.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session3a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session3b.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session4a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session4b.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session4c.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session4d.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session5a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session5b.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session6a.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session6b.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session6c.md
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build docs/session6d.md
           ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build slides.md
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
